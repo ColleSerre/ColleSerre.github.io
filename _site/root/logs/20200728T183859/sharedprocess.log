@@ -1,2 +1,0 @@
-[2020-07-28 18:39:03.486] [sharedprocess] [info] main {"machineId":"069d2bcf34fd82cbb4bbb226e9782458d2070fa8a162c722ea5fab22a28701d5","windowId":2}
-[2020-07-28 18:39:03.579] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/darenpalmer/Github/ColleSerre.github.io/root/User/snippets'
