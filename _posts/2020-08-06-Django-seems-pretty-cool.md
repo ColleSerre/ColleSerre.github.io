@@ -21,12 +21,9 @@ views will not be the plainest you've ever seen but if you still think
 that I could be a good fit for your school, let me in it'll be my honor
 to join your student body. **This concludes my monolog for the imaginary
 admissions officer who lives in my head**.
-<<<<<<< HEAD
 
 This also concludes this blog post. As an update on my progress in that comp-sci book I was talking about in my previous posts: I haven't had time to continue reading it because of the **5 other fucking books that I have to read for school.** Up to now I've read *Albert Camus - L'étranger*, *Albert Camus - Les justes*, *Benjamin Constant - Adolphe* and *Aimé Césaire - Discours sur le colonialisme*. They were all really good books (especially Camus's) but I also have to read *Margaret Atwood - The Handmaid's tale* which is a big book to read in 3 weeks especially when I still have 4 books to read for French left.
 
 I'll keep y'all up to date with my reading schedule.
 
 PS: read Albert Camus, he's an absolute genius who 100% deserved his nobel prize.
-=======
->>>>>>> 9aa6320665b696ff414ca0ba5f41362c7696e336
