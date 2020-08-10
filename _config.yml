@@ -24,16 +24,16 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hi, I'm Daren Palmer and this is my blog. I write about programming and other stuff too (mostly programming).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://colleserre.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+markdown: kramdown
 twitter_username: ColléSerré
 twitter_username: colleettuserre
 github_username:  ColléSerré
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
-minima:
-  skin: dark
+  - jekyll-remote-theme
+remote_theme: songzivong/dark-minima
 
 # Exclude from processing.
 # The following items will not be processed, by default.
