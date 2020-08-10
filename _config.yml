@@ -29,7 +29,7 @@ twitter_username: colleettuserre
 github_username:  ColléSerré
 
 # Build settings
-theme: minima
+theme: minima ~> 2.5.1
 plugins:
   - jekyll-feed
 minima:
