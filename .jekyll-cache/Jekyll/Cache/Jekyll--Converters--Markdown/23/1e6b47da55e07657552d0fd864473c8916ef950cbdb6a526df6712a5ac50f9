@@ -1,0 +1,20 @@
+I"D<h3 id="one-of-my-new-years-resolutions">One of my new year’s resolutions</h3>
+
+<p><strong>I never liked math…</strong> Until this year, until I got into programming seriously. Although I now enjoy math and science that doesn’t change the fact that I’m not very good at it. I’m getting better but I’m still not exceptional.</p>
+
+<p>Thanks to my only god: <strong>the internet</strong> I discovered that algorithms and data structures are considered the fundamentals of computer science. That means that’s where I’m headed now ! Apparently two basic types of algorithms are searching and sorting algorithms. So here it goes.</p>
+
+<p><img src="/post-assets/binary_search.png" alt="Binary search" /></p>
+
+<p>and</p>
+
+<p><img src="/post-assets/bubble_sort.png" alt="Bubble sort" /></p>
+
+<p>I just remembered that I also implemented the Sieve of Eratosthenes algorithm.</p>
+
+<p><img src="/post-assets/primes.png" alt="Sieve of Eratosthenes" /></p>
+
+<p>When I checked my Sieve of Eratosthenes program for correctness I realized that I’d made a terrible mistake: <strong>my program ran for n times instead of square root of n times</strong>. I was absolutely shook because I remember that my math teacher mentioned such a thing. I think it’s at that moment that I really regretted not listening more in math class.</p>
+
+<p>This <a href="https://github.com/karan/Projects#classic-algorithms">repo</a> really helped me find projects to get started with algorithms. I’m not finished with the projects but I’m really eager to start using data structures. I’ll keep y’all up to date!</p>
+:ET
