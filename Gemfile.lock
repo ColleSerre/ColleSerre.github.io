@@ -76,7 +76,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.1.1)
   jekyll-feed (~> 0.12)
-  minima!
+  minima (~> 2.5.0)!
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
