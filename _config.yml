@@ -30,7 +30,6 @@ github_username:  ColléSerré
 
 # Build settings
 theme: minima
-theme: minima ~> 2.5.0
 plugins:
   - jekyll-feed
 minima:
