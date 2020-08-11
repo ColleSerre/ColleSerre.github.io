@@ -30,8 +30,19 @@ body {
   
   #title {
     margin: 0;  
+  }
+  
+  nav {
+    font-size: larger;
+  }
+
+ul {
+    margin-left: 30px;
 }
 
-nav {
-  font-size: larger;
+.vertical-link {
+    font-size: larger;
+}
+.vertical-link:hover{
+    background-color: aquamarine;
 }

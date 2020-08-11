@@ -1,35 +1,35 @@
 body {
-  background-color:#121212de;
-  color: white;
-}
-
-h2 {
-  margin: 30px;
-}
-
-.row {
-  margin: 10px
+    background-color:#121212de;
+    color: white;
+  }
   
-}
-
-.card {
-  margin-bottom: 10px;
-}
-
-h3 {
-  margin: 30px;
-}
-
-#current {
-  width: 100%;
-}
-
-#diagram {
-  margin-left: 5px;
-}
-
-#title {
-  margin: 0;  
+  h2 {
+    margin: 30px;
+  }
+  
+  .row {
+    margin: 10px
+    
+  }
+  
+  .card {
+    margin-bottom: 10px;
+  }
+  
+  h3 {
+    margin: 30px;
+  }
+  
+  #current {
+    width: 100%;
+  }
+  
+  #diagram {
+    margin-left: 5px;
+  }
+  
+  #title {
+    margin: 0;  
 }
 
 nav {
