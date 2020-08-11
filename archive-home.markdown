@@ -13,20 +13,20 @@ layout: none
 </head>
 <body>
   <nav class="navbar navbar-expand-xl navbar-dark bg-dark">
-    <a class="navbar-brand" href="#">Daren Palmer's Portfolio</a> 
+    <a class="navbar-brand" href="/">Daren Palmer's Portfolio</a> 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button> 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item active">
-          <a class="nav-link" href="blog/" target="_blank">Blog<span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="blog/">Blog<span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item active">
-          <a class="nav-link" href="/" target="_blank">Try out my projects</a>
+          <a class="nav-link" href="/">Try out my projects</a>
         </li>
         <li class="nav-item active">
-          <a class="nav-link" href="archives" target="_blank">Class Archives</a>
+          <a class="nav-link" href="archives">Class Archives</a>
         </li>
         <li class="nav-item active">
           <a class="nav-link" href="https://github.com/colleserre" target="_blank">Github</a>
@@ -34,26 +34,27 @@ layout: none
       </ul>
     </div>
   </nav>
+
   <h2>Class Archives</h2>
   
   <ul class="nav flex-column col-3">
     <li class="nav-item bg-dark">
-      <a class="nav-link vertical-link" href="archives-french">French</a>
+      <a class="nav-link vertical-link" href="Archives/French">French</a>
     </li>
     <li class="nav-item bg-dark">
-      <a class="nav-link vertical-link" href="archives-english">English</a>
+      <a class="nav-link vertical-link" href="Archives/English">English</a>
     </li>
     <li class="nav-item bg-dark">
-      <a class="nav-link vertical-link" href="archives-math">Math</a>
+      <a class="nav-link vertical-link" href="/Archives/Math">Math</a>
     </li>
     <li class="nav-item bg-dark">
-      <a class="nav-link vertical-link" href="archives-history">History</a>
+      <a class="nav-link vertical-link" href="/Archives/History">History</a>
     </li>
     <li class="nav-item bg-dark">
-      <a class="nav-link vertical-link" href="archives-geo">Geography</a>
+      <a class="nav-link vertical-link" href="/Archives/Geography">Geography</a>
     </li>
     <li class="nav-item bg-dark">
-      <a class="nav-link vertical-link" href="archives-philosophy">Philosophy</a>
+      <a class="nav-link vertical-link" href="/Archives/Philosophy">Philosophy</a>
     </li>
   </ul>
 
