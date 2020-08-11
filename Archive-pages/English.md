@@ -8,7 +8,7 @@ permalink: /archives-english
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-
+<link rel="stylesheet" href="/Archive-pages/archive-pages.css" type="text/css">
 
 <nav class="navbar navbar-expand-xl navbar-dark bg-dark">
     <a class="navbar-brand" href="/">Daren Palmer's Portfolio</a> 
@@ -33,19 +33,6 @@ permalink: /archives-english
     </div>
   </nav>
 
-<style>
-body {
-    background-color: #121212de;
-    color: white;
-}
-h3 {
-    margin: 30px;
-}
-.btn {
-    margin-left: 30px;
-}
-</style>
-
 <h3>English Archives</h3>
 
 <div class="dropdown">
@@ -53,6 +40,6 @@ h3 {
     Chapter 1
   </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-    <a href="Archives/English/english.docx" download>Download english.docx</a>
+    <a class="download-link" href="Archives/English/english.docx" download>Download english.docx</a>
   </div>
 </div>    
