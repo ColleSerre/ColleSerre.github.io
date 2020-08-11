@@ -48,4 +48,11 @@ h3 {
 
 <h3>English Archives</h3>
 
-<a href="Archives/English/english.docx" download class="btn btn-outline-light">Download english.docx</a>    
+<div class="dropdown">
+  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Chapter 1
+  </button>
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+    <a href="Archives/English/english.docx" download>Download english.docx</a>
+  </div>
+</div>    
