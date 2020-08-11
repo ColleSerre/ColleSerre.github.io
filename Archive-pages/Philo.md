@@ -53,6 +53,6 @@ h3 {
     Chapter 1
   </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-    <a href="Archives/Philosophy/philo.docx" download class="btn btn-outline-light">Download philo.docx</a>    
+    <a href="Archives/Philosophy/philo.docx" download>Download philo.docx</a>    
   </div>
 </div>

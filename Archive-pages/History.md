@@ -53,6 +53,6 @@ h3 {
     Chapter 1
   </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-    <a href="Archives/History/history.docx" download class="btn btn-outline-light">Download history.docx</a>    
+    <a href="Archives/History/history.docx" download>Download history.docx</a>    
   </div>
 </div>
