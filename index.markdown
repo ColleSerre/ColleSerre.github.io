@@ -37,7 +37,7 @@ permalink: /
           <div class="card-body">
             <h5 class="card-title">Message in a bottle</h5>
             <p class="card-text">A Twitter bot that allows unacquainted users to come in contact with each other</p>
-            <a href="https://github.com/ColleSerre/RedAndGold" class="btn btn-primary" target="_blank">View Github repository</a>
+            <a href="https://github.com/ColleSerre/Twitter-Bot" class="btn btn-primary" target="_blank">View Github repository</a>
             <a href="diagram.xmind" download class="btn btn-outline-light" id="diagram">Download project diagram</a>
           </div>
         </div>
