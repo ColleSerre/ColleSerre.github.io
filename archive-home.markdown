@@ -18,22 +18,22 @@ layout: none
   <h2>Class Archives</h2>
   
   <ul class="nav flex-column col-6">
-    <li class="nav-item bg-dark">
+    <li class="nav-item bg-dark redirect">
       <a class="nav-link vertical-link" href="archives-french">French</a>
     </li>
-    <li class="nav-item bg-dark">
+    <li class="nav-item bg-dark redirect">
       <a class="nav-link vertical-link" href="archives-english">English</a>
     </li>
-    <li class="nav-item bg-dark">
+    <li class="nav-item bg-dark redirect">
       <a class="nav-link vertical-link" href="archives-math">Math</a>
     </li>
-    <li class="nav-item bg-dark">
+    <li class="nav-item bg-dark redirect">
       <a class="nav-link vertical-link" href="archives-history">History</a>
     </li>
-    <li class="nav-item bg-dark">
+    <li class="nav-item bg-dark redirect">
       <a class="nav-link vertical-link" href="archives-geo">Geography</a>
     </li>
-    <li class="nav-item bg-dark">
+    <li class="nav-item bg-dark redirect">
       <a class="nav-link vertical-link" href="archives-philo">Philosophy</a>
     </li>
   </ul>
