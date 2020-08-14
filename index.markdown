@@ -15,31 +15,8 @@ permalink: /
   <link rel="stylesheet" href="/style.css">
 </head>
 <body>
-
-  <nav class="navbar navbar-expand-xl navbar-dark bg-dark">
-    <a class="navbar-brand" href="/">Daren Palmer's Portfolio</a> 
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button> 
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav mr-auto">
-        <li class="nav-item active">
-          <a class="nav-link" href="blog/">Blog<span class="sr-only">(current)</span></a>
-        </li>
-        <li class="nav-item active">
-          <a class="nav-link" href="/">Try out my projects</a>
-        </li>
-        <li class="nav-item active">
-          <a class="nav-link" href="archives">Class Archives</a>
-        </li>
-        <li class="nav-item active">
-          <a class="nav-link" href="https://github.com/colleserre" target="_blank">Github</a>
-        </li>
-      </ul>
-    </div>
-  </nav>
   
-
+  {% include h.html %}
 
   <h2>Current Projects 🔴</h2>
   <div id="current">
@@ -48,7 +25,7 @@ permalink: /
         <div class="card bg-dark text-white">
           <div class="card-body">
             <h5 class="card-title">Introduction to Python and Data Visualization course @ My high school (EJM Lille)</h5>
-            <p class="card-text">I'm going to be giving an introduction to Python and Data Visualization using pandas and matplotlib with my good friend Adrien Dumont.<br>The course will be from September to February and the subjects will change after that.</p>
+            <p class="card-text">I'm going to be giving an introduction to Python and Data Visualization using pandas and matplotlib with my good friend Adrien Dumont.<br>The course will be from September to February and the subjects will change to web app development with Flutter after that.</p>
             <a href="https://colab.research.google.com/drive/1ad9tzhB9e20ZM2iDjWfMxIibJ5EwJ_Ny?usp=sharing" class="btn btn-primary" target="_blank">View Google Colab</a>
           </div>
         </div>
