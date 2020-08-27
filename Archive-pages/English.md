@@ -41,5 +41,7 @@ permalink: /archives-english
   </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
     <a class="download-link" href="Archives/English/english.docx" download>Download english.docx</a>
+    <br>
+    <a class="download-link" href="Archives/English/test.txt" download>Download test.txt</a>
   </div>
 </div>    
