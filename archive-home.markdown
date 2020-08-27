@@ -19,26 +19,24 @@ layout: none
   
   <ul class="nav flex-column col-6">
     <li class="nav-item bg-dark redirect">
-      <a class="nav-link vertical-link" href="archives-french">French</a>
+      <a class="nav-link vertical-link" href="Archives/French">French</a>
     </li>
     <li class="nav-item bg-dark redirect">
-      <a class="nav-link vertical-link" href="archives-english">English</a>
+      <a class="nav-link vertical-link" href="Archives/English">English</a>
     </li>
     <li class="nav-item bg-dark redirect">
-      <a class="nav-link vertical-link" href="archives-math">Math</a>
+      <a class="nav-link vertical-link" href="Archives/Math">Math</a>
     </li>
     <li class="nav-item bg-dark redirect">
-      <a class="nav-link vertical-link" href="archives-history">History</a>
+      <a class="nav-link vertical-link" href="Archives/History">History</a>
     </li>
     <li class="nav-item bg-dark redirect">
-      <a class="nav-link vertical-link" href="archives-geo">Geography</a>
+      <a class="nav-link vertical-link" href="Archives/Geography">Geography</a>
     </li>
     <li class="nav-item bg-dark redirect">
-      <a class="nav-link vertical-link" href="archives-philo">Philosophy</a>
+      <a class="nav-link vertical-link" href="Archives/Philosophy">Philosophy</a>
     </li>
   </ul>
-
-
   
 </body>
 </html>
