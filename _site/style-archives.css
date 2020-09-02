@@ -1,48 +1,17 @@
 body {
-    background-color:#121212de;
-    color: white;
-  }
-  
-  h2 {
-    margin: 30px;
-  }
-  
-  .row {
-    margin: 10px
-    
-  }
-  
-  .card {
-    margin-bottom: 10px;
-  }
-  
-  h3 {
-    margin: 30px;
-  }
-  
-  #current {
-    width: 100%;
-  }
-  
-  #diagram {
-    margin-left: 5px;
-  }
-  
-  #title {
-    margin: 0;  
-  }
-  
-  nav {
-    font-size: larger;
-  }
-
-.redirect {
-    margin-left: 30px;
+  background-color: #121212de;
+  color: white;
+}
+h3 {
+  margin: 30px;
+}
+.btn {
+  margin-left: 30px;
+}
+.download-link {
+  padding: 13px;
 }
 
-.vertical-link {
-    font-size: larger;
-}
-.vertical-link:hover{
-    background-color: aquamarine;
+.vertical-link:hover {
+  background-color: aquamarine;
 }
