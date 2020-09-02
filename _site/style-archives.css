@@ -5,6 +5,11 @@ body {
 h3 {
   margin: 30px;
 }
+
+ul {
+  margin-left: 12px;
+}
+
 .btn {
   margin-left: 30px;
 }

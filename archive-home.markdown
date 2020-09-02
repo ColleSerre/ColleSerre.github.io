@@ -15,7 +15,7 @@ layout: none
 
   {% include h.html %}
 
-  <h2>Class Archives</h2>
+  <h3>Class Archives</h3>
   
   <ul class="nav flex-column col-6">
     <li class="nav-item bg-dark redirect">

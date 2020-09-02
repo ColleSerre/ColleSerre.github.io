@@ -1,6 +1,6 @@
 ---
 layout: none
-permalink: /archives-philo
+permalink: /archives/archives-philo
 ---
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -19,6 +19,6 @@ permalink: /archives-philo
     Chapter 1
   </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-    <a class="download-link" href="Archives/Philosophy/philo.docx" download>Download philo.docx</a>    
+    <a class="download-link" href="/Archives/Philosophy/philo.docx" download>Download philo.docx</a>    
   </div>
 </div>

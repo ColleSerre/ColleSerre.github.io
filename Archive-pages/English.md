@@ -1,6 +1,6 @@
 ---
 layout: none
-permalink: /archives-english
+permalink: /archives/archives-english
 ---
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -19,8 +19,8 @@ permalink: /archives-english
     Chapter 1
   </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-    <a class="download-link" href="Archives/English/english.docx" download>Download english.docx</a>
+    <a class="download-link" href="/Archives/English/english.docx" download>Download english.docx</a>
     <br>
-    <a class="download-link" href="Archives/English/test.md" download>Download test.txt</a>
+    <a class="download-link" href="/Archives/English/test.md" download>Download test.txt</a>
   </div>
 </div>    

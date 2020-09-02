@@ -1,6 +1,6 @@
 ---
 layout: none
-permalink: /archives-math
+permalink: /archives/archives-math
 ---
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -16,9 +16,11 @@ permalink: /archives-math
 
 <div class="dropdown">
   <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    Chapter 1
+    Fonctions polynômes du second degré
   </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-    <a class="download-link" href="Archives/Math/math.docx" download>Download math.docx</a>    
+    <a class="download-link" href="/Archives/Math/chapitre1.pdf" download>Download Chapitre 1: Fonctions polynômes du second degré.pdf</a>
+    <br>
+    <a class="download-link" href="/Archives/Math/exosPolynomes.pdf" download>Download Exos Polynômes du second degré.pdf</a>
   </div>
 </div>

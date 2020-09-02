@@ -1,6 +1,6 @@
 ---
 layout: none
-permalink: /archives-french
+permalink: /archives/archives-french
 ---
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -18,6 +18,6 @@ permalink: /archives-french
     Chapter 1
   </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-    <a class="download-link" href="Archives/French/french.docx" download>Download french.docx</a>
+    <a class="download-link" href="/Archives/French/french.docx" download>Download french.docx</a>
   </div>
 </div>
