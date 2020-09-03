@@ -19,7 +19,7 @@ layout: none
   
   <ul class="nav flex-column col-6">
     <li class="nav-item bg-dark redirect">
-      <a class="nav-link vertical-link archive-menu" href="/Archives/Francais/">French</a>
+      <a class="nav-link vertical-link archive-menu" href="/archives/archives-french">French</a>
     </li>
     <li class="nav-item bg-dark redirect">
       <a class="nav-link vertical-link archive-menu" href="/archives/archives-allemand">German</a>
