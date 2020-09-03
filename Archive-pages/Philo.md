@@ -1,6 +1,6 @@
 ---
 layout: none
-permalink: /archives/archives-philo
+permalink: /archives-philo
 ---
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">

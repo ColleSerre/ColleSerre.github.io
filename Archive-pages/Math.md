@@ -1,6 +1,6 @@
 ---
 layout: none
-permalink: /archives/archives-math
+permalink: /archives-math
 ---
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
