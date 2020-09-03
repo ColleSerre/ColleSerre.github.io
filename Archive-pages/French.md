@@ -18,6 +18,6 @@ permalink: /archives/archives-french
     Chapter 1
   </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-    <a class="download-link" href="/Archives/French/french.docx" download>Download french.docx</a>
+    <a class="download-link" href="/Archives/Francais/PlanAnnee.md" download>Download Plan de l'année.md</a>
   </div>
 </div>

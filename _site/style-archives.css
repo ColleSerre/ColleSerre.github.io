@@ -2,6 +2,11 @@ body {
   background-color: #121212de;
   color: white;
 }
+
+button {
+  margin-bottom: 12px;
+}
+
 h3 {
   margin: 30px;
 }
@@ -17,6 +22,11 @@ ul {
   padding: 13px;
 }
 
+.archive-menu {
+  color: white;
+}
+
 .vertical-link:hover {
   background-color: aquamarine;
+  color: black;
 }

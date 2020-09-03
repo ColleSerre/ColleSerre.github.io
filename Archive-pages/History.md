@@ -19,6 +19,6 @@ permalink: /archives/archives-history
     Chapter 1
   </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-    <a class="download-link" href="/Archives/History/history.docx" download>Download history.docx</a>    
+    <a class="download-link" href="/Archives/Histoire/history.docx" download>Download history.docx</a>    
   </div>
 </div>

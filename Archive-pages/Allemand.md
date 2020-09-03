@@ -1,6 +1,6 @@
 ---
 layout: none
-permalink: /archives/archives-geo
+permalink: /archives/archives-allemand
 ---
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,18 +12,13 @@ permalink: /archives/archives-geo
 
 {% include h.html %}
 
-<h3>Geography Archives</h3>
-
-<button class="btn btn-warning"><a class="download-link" href="/Archives/Géographie/ExamOverview.md" download> Download Bac Exam Overview</a></button>
-<button class="btn btn-warning"><a class="download-link" href="/Archives/Géographie/HGSyllabus.pdf" download>Download Syllabus</a>
+<h3>German Archives</h3>
 
 <div class="dropdown">
   <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    Rural Spaces
+    Chapter 1
   </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-    <a class="download-link" href="/Archives/Géographie/RuralSpaces/FragmentationofRuralSpaces.md" download>Download Fragmentation of Rural Spaces.md</a>
-    <br>
-    <a class="download-link" href="/Archives/Géographie/RuralSpaces/RuralSpacesDoc.pdf" download>Download Theme 1 PDF</a>    
+    <a class="download-link" href="/Archives/Allemand/Programme.md" download>Download programme allemand.md</a>
   </div>
-</div>
+</div>    

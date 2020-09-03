@@ -1,6 +1,6 @@
 ---
 layout: none
-permalink: /archives/archives-geo
+permalink: /archives/archives-HLP
 ---
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,18 +12,24 @@ permalink: /archives/archives-geo
 
 {% include h.html %}
 
-<h3>Geography Archives</h3>
+<h3>HLP Archives</h3>
 
-<button class="btn btn-warning"><a class="download-link" href="/Archives/Géographie/ExamOverview.md" download> Download Bac Exam Overview</a></button>
-<button class="btn btn-warning"><a class="download-link" href="/Archives/Géographie/HGSyllabus.pdf" download>Download Syllabus</a>
-
+<button class="btn btn-warning"><a class="download-link" href="/Archives/HLP/Intro.md" download>Download Intro.md</a></button>
 <div class="dropdown">
   <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    Rural Spaces
+    Mr Bernard
   </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-    <a class="download-link" href="/Archives/Géographie/RuralSpaces/FragmentationofRuralSpaces.md" download>Download Fragmentation of Rural Spaces.md</a>
+    <a class="download-link" href="/Archives/HLP/Bernard/L'art de la parole.md" download>Download L'art de la parole.md</a>
     <br>
-    <a class="download-link" href="/Archives/Géographie/RuralSpaces/RuralSpacesDoc.pdf" download>Download Theme 1 PDF</a>    
+    <a class="download-link" href="/Archives/HLP/Bernard/Les Pouvoirs de la parole.md" download>Download Les pouvoirs de la parole.md</a>
   </div>
-</div>
+</div>    
+<div class="dropdown">
+  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Mme Dupas
+  </button>
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+    
+  </div>
+</div>    
