@@ -22,19 +22,19 @@ layout: none
       <a class="nav-link vertical-link" href="/archives/archives-french">French</a>
     </li>
     <li class="nav-item bg-dark redirect">
-      <a class="nav-link vertical-link" href="archives-english">English</a>
+      <a class="nav-link vertical-link" href="/archives/archives-english">English</a>
     </li>
     <li class="nav-item bg-dark redirect">
-      <a class="nav-link vertical-link" href="archives-math">Math</a>
+      <a class="nav-link vertical-link" href="/archives/archives-math">Math</a>
     </li>
     <li class="nav-item bg-dark redirect">
-      <a class="nav-link vertical-link" href="archives-history">History</a>
+      <a class="nav-link vertical-link" href="/archives/archives-history">History</a>
     </li>
     <li class="nav-item bg-dark redirect">
-      <a class="nav-link vertical-link" href="archives-geo">Geography</a>
+      <a class="nav-link vertical-link" href="/archives/archives-geo">Geography</a>
     </li>
     <li class="nav-item bg-dark redirect">
-      <a class="nav-link vertical-link" href="archives-philo">Philosophy</a>
+      <a class="nav-link vertical-link" href="/archives/archives-philo">Philosophy</a>
     </li>
   </ul>
 
