@@ -77,7 +77,7 @@ permalink: /
       <div class="card bg-dark text-white">
         <div class="card-body">
           <h5 class="card-title">Red and Gold app</h5>
-          <p class="card-text">A WIP project to allow users to educate themselves about the marxist ideas.</p>
+          <p class="card-text">A WIP project to allow users to learn about the marxist ideas.</p>
           <a href="https://github.com/ColleSerre/RedAndGold" class="btn btn-primary" target="_blank">View Github repository</a>
         </div>
       </div>
